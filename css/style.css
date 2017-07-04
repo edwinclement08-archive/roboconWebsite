@@ -355,9 +355,37 @@ p {
  position:relative;
   width: auto;
 }
+body > div.bg-content > div.container > div > div > div.block-slogan > div > p {
+  color: #ececec;
+}
+.sf-sub-indicator {
+  display: none;
+
+}
+.dropdown-image {
+  width: 2.5rem;
+
+}
+body > header > div > div > div > div > div > div > ul > li.dropdown > a:hover {
+
+}
+
+body > header > div > div > div > div > div > div > ul > li.dropdown > a {  
+  /*padding:10px!important;*/
+  vertical-align: baseline !important;
+}
+
+body > header > div > div > div > div > div > a > span{
+   display: none !important;
+}
+
+.flexslider {
+  margin-top: 25px !important;
+}
 .block-slogan {
   overflow: hidden;
-  padding-bottom: 44px;
+  padding-bottom: 5px;
+  padding-top: 32px;
 }
 .block-slogan h2:first-letter {
   color: #F25C27;

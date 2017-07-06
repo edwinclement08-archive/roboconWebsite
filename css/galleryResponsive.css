@@ -633,4 +633,11 @@
   .col-lg-offset-0 {
     margin-left: 0%;
   }
+
+
+body > div.bg-content > div.center > div	{
+ padding-left: 15rem !important;
+ padding-bottom: 8rem;
 }
+
+	
